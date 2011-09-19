@@ -1,0 +1,16 @@
+name: CreativeWorld
+main: me.drampelt.creativeworld.CreativeWorld
+version: 0.1
+website: http://drmc2.tk/
+author: drampelt
+
+
+description: >
+             Make a world creative.
+commands:
+  creativeworld:
+    description: Set the creative world to use
+    aliases: [cw]
+    usage: |
+           /<command> <world>
+
